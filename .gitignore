@@ -1,0 +1,6 @@
+﻿*.zip
+__pycache__/
+asset-contact-sheet.jpg
+poster-assets-review.jpg
+.env
+.env.*
